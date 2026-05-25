@@ -1,0 +1,302 @@
+65605709523875
+Housings_SOIC
+Diodes_PSOP-8
+8-Lead Plastic PSOP, Exposed Die Pad (see https://www.diodes.com/assets/Datasheets/AP2204.pdf)
+SSOP 0.50 exposed pad
+0
+12
+9
+Housings_SOIC
+HSOP-20-1EP_11.0x15.9mm_Pitch1.27mm_SlugDown
+HSOP 11.0x15.9mm Pitch 1.27mm Slug Down (PowerSO-20) [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)
+HSOP 11.0 x 15.9mm Pitch 1.27mm
+0
+23
+21
+Housings_SOIC
+HSOP-20-1EP_11.0x15.9mm_Pitch1.27mm_SlugDown_ThermalVias
+HSOP 11.0x15.9mm Pitch 1.27mm Slug Down Thermal Vias (PowerSO-20) [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)
+HSOP 11.0 x 15.9mm Pitch 1.27mm
+0
+45
+21
+Housings_SOIC
+HSOP-20-1EP_11.0x15.9mm_Pitch1.27mm_SlugUp
+HSOP 11.0x15.9mm Pitch 1.27mm Slug Up (PowerSO-20) [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)
+HSOP 11.0 x 15.9mm Pitch 1.27mm
+0
+20
+20
+Housings_SOIC
+HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm
+
+HTSOP 1.27
+0
+12
+9
+Housings_SOIC
+HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm_LargeCopper
+8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, with enlarged copper area, see http://www.ti.com/lit/ds/symlink/tps5430.pdf
+HTSOP 1.27
+0
+13
+9
+Housings_SOIC
+HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm_ThermalVias
+8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias, https://media.digikey.com/pdf/Data%20Sheets/Rohm%20PDFs/BD9G341EFJ.pdf
+HTSOP 1.27
+0
+21
+9
+Housings_SOIC
+HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm_ThermalVias_LargeCopper
+8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias, with enlarged copper area, see http://www.ti.com/lit/ds/symlink/tps5430.pdf
+HTSOP 1.27
+0
+22
+9
+Housings_SOIC
+Infineon_PG-DSO-8-43
+Infineon_PG-DSO-8-43
+DSO DSO-8 SOIC SOIC-8
+0
+12
+9
+Housings_SOIC
+PowerPAK_SO-8_Dual
+PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)
+PowerPAK SO-8 Dual
+0
+10
+6
+Housings_SOIC
+PowerPAK_SO-8_Single
+PowerPAK SO-8 Single (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72599/72599.pdf)
+PowerPAK SO-8 Single
+0
+9
+5
+Housings_SOIC
+SO-4_4.4x2.3mm_Pitch1.27mm
+4-Lead Plastic Small Outline (SO), see http://datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf
+SO SOIC 1.27
+0
+4
+4
+Housings_SOIC
+SO-4_4.4x3.6mm_Pitch2.54mm
+4-Lead Plastic Small Outline (SO), see https://www.elpro.org/de/index.php?controller=attachment&id_attachment=339
+SO SOIC 2.54
+0
+4
+4
+Housings_SOIC
+SO-4_4.4x4.3mm_Pitch2.54mm
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
+0
+4
+4
+Housings_SOIC
+SO-4_7.6x3.6mm_Pitch2.54mm
+4-Lead Plastic Small Outline (SO) (http://www.everlight.com/file/ProductFile/201407061745083848.pdf)
+SO SOIC 2.54
+0
+4
+4
+Housings_SOIC
+SO-5_4.4x3.6mm_Pitch1.27mm
+5-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SO SOIC 1.27
+0
+5
+5
+Housings_SOIC
+SO-6L_10x3.84mm_Pitch1.27mm
+6-pin plasic small outline 7,5mm long https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770
+SO-6L
+0
+6
+6
+Housings_SOIC
+SO-6_4.4x3.6mm_Pitch1.27mm
+6-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SO SOIC 1.27
+0
+6
+6
+Housings_SOIC
+SO-8_5.3x6.2mm_Pitch1.27mm
+8-Lead Plastic Small Outline, 5.3x6.2mm Body (http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf)
+SOIC 1.27
+0
+8
+8
+Housings_SOIC
+SO-20_12.8x7.5mm_Pitch1.27mm
+SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf
+S0-20 
+0
+20
+20
+Housings_SOIC
+SOIC-8-1EP_3.9x4.9mm_Pitch1.27mm
+8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+12
+9
+Housings_SOIC
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+Housings_SOIC
+SOIC-14W_7.5x9.0mm_Pitch1.27mm
+14-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body (http://www.ti.com/lit/ds/symlink/lm1877.pdf)
+SOIC 1.27
+0
+14
+14
+Housings_SOIC
+SOIC-14_3.9x8.7mm_Pitch1.27mm
+14-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+14
+14
+Housings_SOIC
+SOIC-16W_5.3x10.2mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SO) - Wide, 5.3 mm Body (http://www.ti.com/lit/ml/msop002a/msop002a.pdf)
+SOIC 1.27
+0
+16
+16
+Housings_SOIC
+SOIC-16W_7.5x10.3mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+16
+16
+Housings_SOIC
+SOIC-16W_7.5x12.8mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SO) - Wide, 7.50 mm x 12.8 mm Body (http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM6000.PDF)
+SOIC 1.27
+0
+16
+16
+Housings_SOIC
+SOIC-16_3.9x9.9mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+16
+16
+Housings_SOIC
+SOIC-18W_7.5x11.6mm_Pitch1.27mm
+18-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+18
+18
+Housings_SOIC
+SOIC-20W_7.5x12.8mm_Pitch1.27mm
+20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+20
+20
+Housings_SOIC
+SOIC-24W_7.5x15.4mm_Pitch1.27mm
+24-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+24
+24
+Housings_SOIC
+SOIC-28W_7.5x17.9mm_Pitch1.27mm
+28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+28
+28
+Housings_SOIC
+SOIC-28W_7.5x18.7mm_Pitch1.27mm
+28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm X 18.7 mm Body [SOIC] (https://www.akm.com/akm/en/file/datasheet/AK5394AVS.pdf)
+SOIC 1.27
+0
+28
+28
+Housings_SOIC
+SOIJ-8_5.3x5.3mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+Housings_SOIC
+SSO-6_6.8x4.6mm_Pitch1.27mm_Clearance7mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC 1.27
+0
+6
+6
+Housings_SOIC
+SSO-6_6.8x4.6mm_Pitch1.27mm_Clearance8mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC 1.27
+0
+6
+6
+Housings_SOIC
+SSO-8_6.8x5.9mm_Pitch1.27mm_Clearance7mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
+0
+8
+8
+Housings_SOIC
+SSO-8_6.8x5.9mm_Pitch1.27mm_Clearance8mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
+0
+8
+8
+Housings_SOIC
+SSO-8_9.6x6.3mm_Pitch1.27mm_Clearance10.5mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
+0
+8
+8
+Housings_SOIC
+SSO-8_13.6x6.3mm_Pitch1.27mm_Clearance14.2mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
+0
+8
+8
+Housings_SOIC
+TI_SO-PowerPAD-8
+8-Lead Plastic PSOP, Exposed Die Pad (TI DDA0008B, see http://www.ti.com/lit/ds/symlink/lm3404.pdf)
+SSOP 0.50 exposed pad
+0
+12
+9
+Housings_SOIC
+TI_SO-PowerPAD-8_ThermalVias
+8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias with large copper area, as proposed in http://www.ti.com/lit/ds/symlink/tps5430.pdf
+HTSOP 1.27
+0
+19
+9
+Housings_SOIC
+Zetex_SM8
+Zetex,  SMD, 8 pin package (http://datasheet.octopart.com/ZDT6758TA-Zetex-datasheet-68057.pdf)
+Zetex SM8
+0
+8
+8
