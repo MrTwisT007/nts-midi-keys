@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nts_keys-rescue")(type "KiCad")(uri "${KIPRJMOD}/nts_keys-rescue.kicad_sym")(options "")(descr ""))
+)

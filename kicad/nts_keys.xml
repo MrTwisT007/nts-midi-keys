@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>G:\Big Backup\Documents\KiCad\Projects\nts_midi_keys\kicad\nts_keys.kicad_sch</source>
+    <date>25-May-26 2:31:10 PM</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>nts_keys.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060685315</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>Mounting_Holes:MountingHole_3mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601d02e4</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>Mounting_Holes:MountingHole_3mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601d32de</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>Mounting_Holes:MountingHole_3mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601d34eb</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>Mounting_Holes:MountingHole_3mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601d371d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04_Female</value>
+      <footprint>Connectors_TE-Connectivity:TE_84952-4_1x04_P1.0mm_Horizontal</footprint>
+      <libsource lib="nts_keys-rescue" part="Conn_01x04_Female-Connector" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006076f24b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04_Female</value>
+      <footprint>Connectors_TE-Connectivity:TE_84952-4_1x04_P1.0mm_Horizontal</footprint>
+      <libsource lib="nts_keys-rescue" part="Conn_01x04_Female-Connector" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060770452</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x07_Female</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm</footprint>
+      <libsource lib="nts_keys-rescue" part="Conn_01x07_Female-Connector" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607552c1</tstamps>
+    </comp>
+    <comp ref="OCT+1">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000603a5e07</tstamps>
+    </comp>
+    <comp ref="OCT-1">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000603a5e01</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602827e6</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006021f38e</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602216ca</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060221b8a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006021f64d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602220ea</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006021fd02</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602225e0</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060222b28</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060220059</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060222e98</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060220609</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060223282</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602209aa</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602238b1</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060223d4a</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060220ddf</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060224228</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000603a5e0d</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000603a5e13</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>240</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000605942a2</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>240</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000605691ab</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607275e3</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060255020</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c2b17</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c2edd</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c316b</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c3765</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c3d4e</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c4184</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c4640</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c5166</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c55bf</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c5e2d</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c628d</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c65a0</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c6b52</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c76c9</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c7b12</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c80b1</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQQ2</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000601c8932</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>4021</value>
+      <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/HEF4021B.pdf</datasheet>
+      <libsource lib="4xxx" part="4021" description="8-bit static shift register"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="8-bit static shift register"/>
+      <property name="ki_keywords" value="shift register SR PISO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006020ea72</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>4021</value>
+      <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/HEF4021B.pdf</datasheet>
+      <libsource lib="4xxx" part="4021" description="8-bit static shift register"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="8-bit static shift register"/>
+      <property name="ki_keywords" value="shift register SR PISO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060289a24</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>4021</value>
+      <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/HEF4021B.pdf</datasheet>
+      <libsource lib="4xxx" part="4021" description="8-bit static shift register"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <property name="ki_description" value="8-bit static shift register"/>
+      <property name="ki_keywords" value="shift register SR PISO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006028a5a7</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>ATtiny45-20PU</value>
+      <footprint>Housings_SOIC:SOIJ-8_5.3x5.3mm_Pitch1.27mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf</datasheet>
+      <libsource lib="nts_keys-rescue" part="ATtiny45-20PU-MCU_Microchip_ATtiny" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nts_keys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060357fd9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="4xxx" part="4021">
+      <description>8-bit static shift register</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/HEF4021B.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SOIC*5.3x10.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4021</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/HEF4021B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D7" type="input"/>
+        <pin num="2" name="Q5" type="output"/>
+        <pin num="3" name="Q7" type="output"/>
+        <pin num="4" name="D3" type="input"/>
+        <pin num="5" name="D2" type="input"/>
+        <pin num="6" name="D1" type="input"/>
+        <pin num="7" name="D0" type="input"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="PL" type="input"/>
+        <pin num="10" name="CP" type="input"/>
+        <pin num="11" name="DS" type="input"/>
+        <pin num="12" name="Q6" type="output"/>
+        <pin num="13" name="D4" type="input"/>
+        <pin num="14" name="D5" type="input"/>
+        <pin num="15" name="D6" type="input"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="nts_keys-rescue" part="ATtiny45-20PU-MCU_Microchip_ATtiny">
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCU_Microchip_ATtiny_ATtiny45-20PU</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RESET}/PB5" type="bidirectional"/>
+        <pin num="2" name="XTAL1/PB3" type="bidirectional"/>
+        <pin num="3" name="XTAL2/PB4" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="AREF/PB0" type="bidirectional"/>
+        <pin num="6" name="PB1" type="bidirectional"/>
+        <pin num="7" name="PB2" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="nts_keys-rescue" part="Conn_01x04_Female-Connector">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Connector_Conn_01x04_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="nts_keys-rescue" part="Conn_01x07_Female-Connector">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Connector_Conn_01x07_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="4xxx">
+      <uri>D:\Software\KiCad7\share\kicad\symbols\/4xxx.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\Software\KiCad7\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>D:\Software\KiCad7\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>D:\Software\KiCad7\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="nts_keys-rescue">
+      <uri>G:\Big Backup\Documents\KiCad\Projects\nts_midi_keys\kicad/nts_keys-rescue.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/A0">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="2" name="/A1">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="3" name="/A2">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="4" name="/A3">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="D3" pintype="input"/>
+    </net>
+    <net code="5" name="/A4">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="D4" pintype="input"/>
+    </net>
+    <net code="6" name="/A5">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="D5" pintype="input"/>
+    </net>
+    <net code="7" name="/A6">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="D6" pintype="input"/>
+    </net>
+    <net code="8" name="/A7">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="D7" pintype="input"/>
+    </net>
+    <net code="9" name="/B0">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="10" name="/B1">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="11" name="/B2">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="12" name="/B3">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="D3" pintype="input"/>
+    </net>
+    <net code="13" name="/B4">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="D4" pintype="input"/>
+    </net>
+    <net code="14" name="/B5">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="D5" pintype="input"/>
+    </net>
+    <net code="15" name="/B6">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="D6" pintype="input"/>
+    </net>
+    <net code="16" name="/B7">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="D7" pintype="input"/>
+    </net>
+    <net code="17" name="/C0">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="18" name="/C1">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="19" name="/C2">
+      <node ref="OCT-1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="D6" pintype="input"/>
+    </net>
+    <net code="20" name="/C3">
+      <node ref="OCT+1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="D7" pintype="input"/>
+    </net>
+    <net code="21" name="/GND_DAUGHTER">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="22" name="/MIDI_TX">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="AREF/PB0" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/PL">
+      <node ref="U1" pin="9" pinfunction="PL" pintype="input"/>
+      <node ref="U2" pin="9" pinfunction="PL" pintype="input"/>
+      <node ref="U3" pin="9" pinfunction="PL" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="XTAL1/PB3" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/SCAN_OUT">
+      <node ref="U3" pin="3" pinfunction="Q7" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="XTAL2/PB4" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/SR_CLK">
+      <node ref="U1" pin="10" pinfunction="CP" pintype="input"/>
+      <node ref="U2" pin="10" pinfunction="CP" pintype="input"/>
+      <node ref="U3" pin="10" pinfunction="CP" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/VDD_DAUGHTER">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="27" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="13" pinfunction="D4" pintype="input"/>
+      <node ref="U3" pin="14" pinfunction="D5" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="D3" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="D2" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="28" name="Net-(J1-Pin_1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J1-Pin_2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J2-Pin_1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(J2-Pin_2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(U1-Q7)">
+      <node ref="U1" pin="3" pinfunction="Q7" pintype="output"/>
+      <node ref="U2" pin="11" pinfunction="DS" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(U2-Q7)">
+      <node ref="U2" pin="3" pinfunction="Q7" pintype="output"/>
+      <node ref="U3" pin="11" pinfunction="DS" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(U4-~{RESET}{slash}PB5)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="~{RESET}/PB5" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="VDD">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="OCT+1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="OCT-1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="36" name="unconnected-(J3-Pin_3-Pad3)">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(J3-Pin_4-Pad4)">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(J3-Pin_6-Pad6)">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U1-DS-Pad11)">
+      <node ref="U1" pin="11" pinfunction="DS" pintype="input+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U1-Q5-Pad2)">
+      <node ref="U1" pin="2" pinfunction="Q5" pintype="output+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U1-Q6-Pad12)">
+      <node ref="U1" pin="12" pinfunction="Q6" pintype="output+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U2-Q5-Pad2)">
+      <node ref="U2" pin="2" pinfunction="Q5" pintype="output+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U2-Q6-Pad12)">
+      <node ref="U2" pin="12" pinfunction="Q6" pintype="output+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U3-Q5-Pad2)">
+      <node ref="U3" pin="2" pinfunction="Q5" pintype="output+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U3-Q6-Pad12)">
+      <node ref="U3" pin="12" pinfunction="Q6" pintype="output+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U4-PB1-Pad6)">
+      <node ref="U4" pin="6" pinfunction="PB1" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
